@@ -14,6 +14,7 @@ if (!app.Environment.IsDevelopment())
 }
 
 //ffff
+
 branch 2
 riadok 17 middle point
     riadok 18
@@ -61,5 +62,5 @@ app.UseAuthorization();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
+ahoj
 app.Run();
