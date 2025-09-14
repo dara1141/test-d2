@@ -33,6 +33,10 @@ branch 3
 
 //**
 
+    zmena 1
+    zmena 3
+    zmena 2
+
 //22.08 3
 //22
 
