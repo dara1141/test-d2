@@ -18,6 +18,9 @@ branch 2
 riadok 17 middle point
     riadok 18
 /////
+
+branch 2
+
 branch 3
 //darka zmena
 //darka zmena 2
