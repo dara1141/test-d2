@@ -14,10 +14,17 @@ if (!app.Environment.IsDevelopment())
 }
 
 //ffff
+
+branch 2
 riadok 17 middle point
     riadok 18
 /////
 
+branch 2
+
+branch 3
+    brachn 2
+    branch 3 top
 //darka zmena
 //darka zmena 2
 /////
@@ -26,6 +33,10 @@ riadok 17 middle point
 ///dd
 
 //**
+
+    zmena 1
+    zmena 3
+    zmena 2
 
 //22.08 3
 //22
