@@ -17,7 +17,7 @@ if (!app.Environment.IsDevelopment())
 riadok 17 middle point
     riadok 18
 /////
-
+branch 3
 //darka zmena
 //darka zmena 2
 /////
