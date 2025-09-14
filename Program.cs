@@ -14,7 +14,8 @@ if (!app.Environment.IsDevelopment())
 }
 
 //ffff
-
+riadok 17 middle point
+    riadok 18
 /////
 
 //darka zmena
